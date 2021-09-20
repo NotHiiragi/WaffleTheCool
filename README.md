@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Vilmer or here on github, Waffle! I am new to programming and I am currently the owner of a Music bot on discord called "TadMusic". I am also working on the discord library (Dinocord)[www.github.com/WaffleTheCool/Dinocord] or (Dinocord)[www.deno.land/x/dinocord]
+
 <!--
 **WaffleTheCool/WaffleTheCool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
