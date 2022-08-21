@@ -1,6 +1,18 @@
 ### Hi there 👋
 
-My name is Vilmer or here on github, Waffle! I am new to programming and I am currently the owner of a Music bot on discord called "TadMusic". I am also working on the discord library [Dinocord(Github)](https://www.github.com/WaffleTheCool/Dinocord) or [Dinocord(deno.land)](https://www.deno.land/x/dinocord)
+I have a few online aliases like; BuffaLoBiff, Eli, Lyle, WaffleTheCool and Waffle. I am fairly new to programming, I've made a few discord bots that are no-longer in service but I am making Beat Saber mods for the ~~Oculus~~ Meta Quests. Here on my GitHub page you can throwaway projects and other stuff that I just made for fun :)))
+
+The mods I've made:
+DrinkWater
+AniPic (Modified version of Nya)
+Promotion Yeeter (Later to be renamed to Adblock)
+
+Mods I've version bumped/made a little fix in:
+Nya-quest
+CustomMainMenu
+
+
+Might have forgotten some stuff but thats me 👍
 
 <!--
 **WaffleTheCool/WaffleTheCool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
