@@ -2,7 +2,7 @@
 
 I have a few online aliases like; BuffaLoBiff, Eli, Lyle, WaffleTheCool and Waffle. I am fairly new to programming, I've made a few discord bots that are no-longer in service but I am making Beat Saber mods for the ~~Oculus~~ Meta Quests. Here on my GitHub page you can throwaway projects and other stuff that I just made for fun :)))
 
-## The mods I've made:
+### The mods I've made:
 
 DrinkWater
 
@@ -10,7 +10,7 @@ AniPic (Modified version of Nya)
 
 Promotion Yeeter (Later to be renamed to Adblock)
 
-## Mods I've version bumped/made a little fix in:
+### Mods I've version bumped/made a little fix in:
 
 Nya-quest
 
@@ -18,6 +18,12 @@ CustomMainMenu
 
 
 Might have forgotten some stuff but thats me 👍
+
+### GitHub Cards :D
+
+[![Waffle's GitHub stats](https://github-readme-stats.vercel.app/api?username=WaffleTheCool)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WaffleTheCool)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **WaffleTheCool/WaffleTheCool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
