@@ -21,9 +21,9 @@ Might have forgotten some stuff but thats me 👍
 
 ### GitHub Cards :D
 
-[![Waffle's GitHub stats](https://github-readme-stats.vercel.app/api?username=WaffleTheCool)](https://github.com/anuraghazra/github-readme-stats)
+[![Waffle's GitHub stats](https://github-readme-stats.vercel.app/api?username=WaffleTheCool&show_icons=true&layout=compact&theme=dark)](https://github.com/stuyy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WaffleTheCool)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WaffleTheCool&layout=compact&theme=dark)](https://github.com/WaffleTheCool)
 
 <!--
 **WaffleTheCool/WaffleTheCool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
