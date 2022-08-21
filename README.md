@@ -4,11 +4,11 @@ I have a few online aliases like; BuffaLoBiff, Eli, Lyle, WaffleTheCool and Waff
 
 ### The mods I've made:
 
-DrinkWater
+[DrinkWater](www.github.com/WaffleTheCool/DrinkWater)
 
-AniPic (Modified version of Nya)
+[AniPic](www.github.com/WaffleTheCool/AniPic) (Modified version of Nya)
 
-Promotion Yeeter (Later to be renamed to Adblock)
+[Promotion Yeeter](/PromotionYeeter) (Later to be renamed to Adblock)
 
 ### Mods I've version bumped/made a little fix in:
 
