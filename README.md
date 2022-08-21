@@ -4,17 +4,19 @@ I have a few online aliases like; BuffaLoBiff, Eli, Lyle, WaffleTheCool and Waff
 
 ### The mods I've made:
 
-[DrinkWater](www.github.com/WaffleTheCool/DrinkWater)
+[DrinkWater](https://www.github.com/WaffleTheCool/DrinkWater)
 
-[AniPic](www.github.com/WaffleTheCool/AniPic) (Modified version of Nya)
+[AniPic](https://www.github.com/WaffleTheCool/AniPic) (Modified version of Nya)
 
-[Promotion Yeeter](/PromotionYeeter) (Later to be renamed to Adblock)
+[Promotion Yeeter](https://www.github.com/WaffleTheCool/PromotionYeeter) (Later to be renamed to Adblock)
 
 ### Mods I've version bumped/made a little fix in:
 
-Nya-quest
+[Nya-quest](https://www.github.com/Futuremappermydud/nya-quest)
 
-CustomMainMenu
+[CustomMainMenu](https://www.github.com/WaffleTheCool/CustomMainMenu) (fork)
+
+[CustomMainMenu](https://www.github.com/77Z/CustomMainMenu) (Original)
 
 
 Might have forgotten some stuff but thats me 👍
