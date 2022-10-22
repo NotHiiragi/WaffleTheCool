@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I have a few online aliases like; BuffaLoBiff, Eli, Lyle, WaffleTheCool and Waffle. I am fairly new to programming, I've made a few discord bots that are no-longer in service but I am making Beat Saber mods for the ~~Oculus~~ Meta Quests. Here on my GitHub page you can throwaway projects and other stuff that I just made for fun :)))
+I have a few online aliases like; nesiLLL, BuffaLoBiff, Eli, Lyle, WaffleTheCool and Waffle. I am fairly new to programming, I've made a few discord bots that are no-longer in service but I am making Beat Saber mods for the ~~Oculus~~ Meta Quests. Here on my GitHub page you can throwaway projects and other stuff that I just made for fun :)))
 
 ### The mods I've made:
 
