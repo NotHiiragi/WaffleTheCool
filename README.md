@@ -23,7 +23,7 @@ Might have forgotten some stuff but thats me 👍
 
 ### GitHub Cards :D
 
-[![Waffle's GitHub stats](https://github-readme-stats.vercel.app/api?username=WaffleTheCool&show_icons=true&layout=compact&theme=dark)](https://github.com/stuyy)
+[![Waffle's GitHub stats](https://github-readme-stats.vercel.app/api?username=WaffleTheCool&show_icons=true&layout=compact&theme=dark)](https://github.com/WaffleTheCool)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WaffleTheCool&layout=compact&theme=dark)](https://github.com/WaffleTheCool)
 
